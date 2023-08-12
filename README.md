@@ -1,6 +1,8 @@
 # Projeme Başlama Nedenim
 📝 Peojeye başlarken ana hedefim ilk defa Unity3D üzerinde çalışıp bir şeyler öğrenmekti. Sahne tasarımı olarak başladım ve bu seviyede 3D objeleri, collider sistemlerini öğrendim. Daha sonra bu objelerimi görselleştirmek için internetten texture lar indirerek materyallerimin içine attım ve böylece materyal sistemini de anlamış oldum. Tribünlerim için öğrendiğim 3d objeleri ve materyalleri kullanarak Photoshop tan da yararlanarak koltuk görüntüsü ekledim. Oyunumda artık basket salonum potam vs. vardı artık top yapmam gerekiyordu. 3D obje + texture + materyal kullanarak tam gerçekçi bir top ekledim oyunuma. Artık fizik, rigidbody gibi terimlere de hakim olmaya başladım ve bu sayede topumu ihtiyacıma göre sektirebiliyordum. Daha sonra c# unity kütüphanesi ile beraber kodlamaya başladım ve genel olarak temel şeyleri topumu potaya atarak öğrenmiş olmuştum. İlk projem olduğu için özellikle scriptler açısından büyük hatalar (çoğu şeyi aynı scriptte yapmaya çalışmak gibi) yapmıştım fakat benim için deneyim olmuştu. Öğrenmeye başladıkça oyunuma bazı özellikler eklemiştim, bunlardan bazılarınınaşağıda yazacağım.
 
+![as](https://github.com/erdiirden/Unity3D-Basketball-Game/assets/113932351/fbbe8b59-4735-49a0-af0d-a18758ec379c)
+
 # Proje Özellikleri
 🛡️Defans yapan takım oyuncuları, hücum yapan takım oyuncularına yapay zekaya göre baskı yapar. Bu baskı şu şekildedir;
 
@@ -22,4 +24,8 @@
 
 ✅ Sonuç olarak projede bazı eksiklikler var (paslar, atışlar vs. ışınlanma olarak yapılıyor vb.) fakat ilk projem olarak hedefime ulaştığım bi çalışma olmuştu.
 
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/UT_Iwo2xxZ8)
+# Proje Videosu
+https://github.com/erdiirden/Unity3D-Basketball-Game/assets/113932351/e2e7d686-0c36-40d5-93b4-e7b810ade9c8
+
+[Videonun devamı için tıkla](https://youtu.be/UT_Iwo2xxZ8 "video")
+
